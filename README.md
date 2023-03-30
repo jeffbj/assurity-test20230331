@@ -74,4 +74,4 @@ The logging module is used to add log messages at key points in the script, such
 - [x] The outcome uses git appropriately for source control 
 
 ***5. We want to see your best work - no lazy coding or comments.***
-- [x] The test script includes logs to aid in understanding, debugging and maintaining the script flow
+- [x] The test script includes comments and logs to aid in understanding, debugging and maintaining the script flow
