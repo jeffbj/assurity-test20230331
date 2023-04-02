@@ -37,7 +37,7 @@ pip install requests
 ## Usage
 To run the test, execute the following command:
 ```
-python -m unittest test_queryInfo.py
+python -m unittest TestQueryInfo.py
 ```
 Run the script.The log messages will be displayed in the console.
 
